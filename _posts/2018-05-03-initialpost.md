@@ -2,7 +2,7 @@
 title: "Initial Post"
 date: 2018-05-02
 ---
-# Welcome to my blog
+# Basic GIT workflow
 
 I'm glad you are here. I plan to talk about basic git flow:
 
