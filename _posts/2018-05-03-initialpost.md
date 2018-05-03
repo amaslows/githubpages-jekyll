@@ -2,15 +2,15 @@
 title: "Initial Post"
 date: 2018-05-02
 ---
-# Basic GIT workflow
+## Basic GIT workflow
 
 I'm glad you are here. I plan to talk about basic git flow:
 
-## Clone Repo
+### Clone Repo
 - git clone `<url>`
 - cd `<reponame>`
 
-## Create new feature branch
+### Create new feature branch
 - git checkout -b `<branchname>`
 
 ## Merge with master to ensure in sync and make the change
